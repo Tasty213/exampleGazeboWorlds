@@ -1,0 +1,5 @@
+# Add as many points you want the user to be able to import into their program 
+# here. Doccument what your points mean in readme
+key_point_1: [-1.43, 1.15]
+key_point_2: [3.4, 1.15]
+
